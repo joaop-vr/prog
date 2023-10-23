@@ -1,4 +1,4 @@
-# paradigmas
+# Programação
 
 Autor: Joao Pedro Vicente Ramalho.
 Estudante de Ciência da Computação na Universidade Federal do Paraná.
